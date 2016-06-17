@@ -1,4 +1,4 @@
 #!/bin/sh -e
 
-cd testProgram
-make
+sudo ldconfig
+cabocha -help
